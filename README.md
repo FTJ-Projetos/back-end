@@ -1,8 +1,10 @@
-# Minha API
+# API Tarefas
 
-Este pequeno projeto faz parte do material diático da Disciplina **Desenvolvimento Full Stack Básico** 
+Este projeto foi desenvolvido para atender o projeto MVP da Disciplina **Desenvolvimento Full Stack Básico** 
 
-O objetivo aqui é ilustrar o conteúdo apresentado ao longo das três aulas da disciplina Desenvolvimento Full Stack Básico.
+O objetivo aqui é demonstrar o aprendizado da disciplina Desenvolvimento Full Stack Básico.
+
+Para atender ao conceito de "key constraints" (restrições/limitações-chave) o back end está separado do front-end.
 
 ---
 ## Como executar 
